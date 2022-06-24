@@ -1,3 +1,4 @@
 # Curso_JavaScript
 Este repositório serve para armazenamento de aprendizados de um curso JavaScript.
-Organizei com anotações didáticas e exemplificações.
+
+Dentro dos arquivos, há aulas com anotações teóricas sobre a linguagem e sobre o código, além de exercícios sobre o tópico em geral.
