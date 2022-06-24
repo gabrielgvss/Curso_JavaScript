@@ -1,2 +1,3 @@
 # Curso_JavaScript
-Repositório para armazenamento de aprendizados e projetos gerais de curso de Javascript.
+Este repositório serve para armazenamento de aprendizados de um curso JavaScript.
+Organizei com anotações didáticas e exemplificações.
