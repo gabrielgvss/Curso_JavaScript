@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title> EXERCÍCIO STRINGS </title>
+</head>
+<body>
+    <script>
+        const nome = prompt("Digite seu nome completo:");
+        document.body.innerHTML = `O seu nome completo é ${nome} <br/>`;
+        document.body.innerHTML += `O seu nome possui ${nome.length} letras <br/>`;
+        document.body.innerHTML += `A segunda letra do seu nome é igual a \" ${nome.charAt(1)} \" <br/>`;
+        document.body.innerHTML += `A primeira letra \"a\" no seu nome está no índice n° ${nome.indexOf("a")}<br/>`;
+        document.body.innerHTML += `O último índice da letra \"a\" no seu nome está no índice n°${nome.lastIndexOf("a")}<br/>`;
+        document.body.innerHTML += `As três últimas letras do seu nome são ${nome.slice(-3)}`;
+        document.body.innerHTML += `Separando as palavras do seu nome fica ${nome.split(" ")}<br/>`;
+
+    </script>
+</body>
+</html>
